@@ -1,0 +1,1 @@
+npx convex run cleanupAuth:deleteCorruptedAuthAccount
